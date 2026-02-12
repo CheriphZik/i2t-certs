@@ -8,8 +8,8 @@ import (
 	"encoding/pem"
 	"fmt"
 
-	"github.com/absmach/certs"
-	"github.com/absmach/certs/api"
+	"github.com/CheriphZik/i2t-certs"
+	"github.com/CheriphZik/i2t-certs/api"
 	"github.com/absmach/supermq/pkg/errors"
 	"golang.org/x/crypto/ocsp"
 )

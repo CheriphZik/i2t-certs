@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/absmach/certs/cli"
+	"github.com/CheriphZik/i2t-certs/cli"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/require"
 )

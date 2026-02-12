@@ -6,7 +6,7 @@ package http
 import (
 	"context"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	"github.com/absmach/supermq/pkg/authn"
 	svcerr "github.com/absmach/supermq/pkg/errors/service"
 	"github.com/go-kit/kit/endpoint"

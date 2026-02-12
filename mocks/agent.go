@@ -10,7 +10,7 @@ package mocks
 import (
 	"context"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	mock "github.com/stretchr/testify/mock"
 )
 

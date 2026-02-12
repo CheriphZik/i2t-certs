@@ -7,7 +7,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	"github.com/absmach/supermq/pkg/authn"
 	"github.com/go-kit/kit/metrics"
 )

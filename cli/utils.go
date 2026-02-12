@@ -9,8 +9,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/absmach/certs"
-	ctxsdk "github.com/absmach/certs/sdk"
+	"github.com/CheriphZik/i2t-certs"
+	ctxsdk "github.com/CheriphZik/i2t-certs/sdk"
 	"github.com/fatih/color"
 	"github.com/hokaccha/go-prettyjson"
 	"github.com/spf13/cobra"

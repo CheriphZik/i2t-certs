@@ -7,8 +7,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/absmach/certs"
-	"github.com/absmach/certs/api"
+	"github.com/CheriphZik/i2t-certs"
+	"github.com/CheriphZik/i2t-certs/api"
 	"github.com/go-kit/kit/endpoint"
 	kitgrpc "github.com/go-kit/kit/transport/grpc"
 	"google.golang.org/grpc"

@@ -6,7 +6,7 @@ package middleware
 import (
 	"context"
 
-	crt "github.com/absmach/certs"
+	crt "github.com/CheriphZik/i2t-certs"
 	"github.com/absmach/supermq/pkg/authn"
 	"github.com/absmach/supermq/pkg/authz"
 	"github.com/absmach/supermq/pkg/errors"

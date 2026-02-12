@@ -10,8 +10,8 @@ package mocks
 import (
 	"context"
 
-	"github.com/absmach/certs"
-	"github.com/absmach/certs/sdk"
+	"github.com/CheriphZik/i2t-certs"
+	"github.com/CheriphZik/i2t-certs/sdk"
 	"github.com/absmach/supermq/pkg/errors"
 	mock "github.com/stretchr/testify/mock"
 )

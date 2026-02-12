@@ -6,8 +6,8 @@ package grpc
 import (
 	"context"
 
-	"github.com/absmach/certs"
-	"github.com/absmach/certs/api/http"
+	"github.com/CheriphZik/i2t-certs"
+	"github.com/CheriphZik/i2t-certs/api/http"
 	"github.com/absmach/supermq/pkg/errors"
 	kitgrpc "github.com/go-kit/kit/transport/grpc"
 	"google.golang.org/grpc/codes"

@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/absmach/certs"
-	"github.com/absmach/certs/sdk"
+	"github.com/CheriphZik/i2t-certs"
+	"github.com/CheriphZik/i2t-certs/sdk"
 	"github.com/spf13/cobra"
 )
 

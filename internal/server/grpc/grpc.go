@@ -12,7 +12,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/absmach/certs/internal/certs"
+	"github.com/CheriphZik/i2t-certs/internal/certs"
 	"github.com/absmach/supermq/pkg/server"
 	"go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc"
 	"google.golang.org/grpc"

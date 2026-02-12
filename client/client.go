@@ -6,7 +6,7 @@ package client
 import (
 	"context"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	grpc "github.com/absmach/supermq/pkg/grpcclient"
 	grpchealth "google.golang.org/grpc/health/grpc_health_v1"
 )

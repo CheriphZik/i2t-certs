@@ -7,8 +7,8 @@ package main
 import (
 	"log"
 
-	"github.com/absmach/certs/cli"
-	"github.com/absmach/certs/sdk"
+	"github.com/CheriphZik/i2t-certs/cli"
+	"github.com/CheriphZik/i2t-certs/sdk"
 	"github.com/spf13/cobra"
 )
 

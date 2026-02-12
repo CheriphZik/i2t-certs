@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	api "github.com/absmach/supermq/api/http"
 	apiutil "github.com/absmach/supermq/api/http/util"
 	smqauthn "github.com/absmach/supermq/pkg/authn"

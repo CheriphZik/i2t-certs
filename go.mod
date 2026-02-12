@@ -1,4 +1,4 @@
-module github.com/absmach/certs
+module github.com/CheriphZik/i2t-certs
 
 go 1.25.5
 

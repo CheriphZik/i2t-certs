@@ -27,7 +27,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	"github.com/absmach/supermq/pkg/errors"
 	"golang.org/x/crypto/ocsp"
 	"moul.io/http2curl"

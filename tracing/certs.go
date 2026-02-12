@@ -6,7 +6,7 @@ package tracing
 import (
 	"context"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 	"github.com/absmach/supermq/pkg/authn"
 	"go.opentelemetry.io/otel/trace"
 )

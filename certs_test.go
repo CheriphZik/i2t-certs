@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/absmach/certs"
-	"github.com/absmach/certs/mocks"
+	"github.com/CheriphZik/i2t-certs"
+	"github.com/CheriphZik/i2t-certs/mocks"
 	smqauthn "github.com/absmach/supermq/pkg/authn"
 	"github.com/absmach/supermq/pkg/errors"
 	"github.com/stretchr/testify/assert"

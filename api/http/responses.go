@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/absmach/certs"
+	"github.com/CheriphZik/i2t-certs"
 )
 
 var (
